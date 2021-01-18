@@ -1,7 +1,7 @@
 /***
-	Author: MD Sdarul Islam Toaha
+	Author: Md. Sdarul Islam Toaha
 
-	Institute: United IOnternational university
+	Institute: United International university
 
 ***/
 
